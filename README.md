@@ -1,6 +1,6 @@
 finite-difference-course
 ========================
-Material for a course on finite difference methods for differential equations.
+Supplemental material for a course on finite difference methods for differential equations.
 
 Course materials (syllabus and assignments) can be found linked from the 
 [course page](https://github.com/ketch/finite-difference-course/wiki).
